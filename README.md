@@ -11,3 +11,6 @@ to install project dependencies.
 Start the local development server @ localhost:3000 via
 
     npm start
+
+### Github token
+Create a Github personal access token (PAT) and add it in the `fetchResource` method to enable authorized calls to the Github API.
