@@ -58,7 +58,7 @@ export const fetchResource = endpoint => {
     endpoint,
     {
       headers: {
-        Authorization: 'Bearer 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'
+        Authorization: 'Bearer <token>'
       }
     }
   ).then(res => res.json());
