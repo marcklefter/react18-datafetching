@@ -1,5 +1,5 @@
 # react18-datafetching
-This project contains example code demonstrating React's upcoming concurrent features, specifically using the startTransition and Suspense APIs for data fetching.
+This project contains example code demonstrating upcoming concurrent features in React 18, specifically using the startTransition and Suspense APIs for data fetching.
 
 ## Instructions
 First, run
